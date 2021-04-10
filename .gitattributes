@@ -7,7 +7,7 @@
 *.bat text eol=crlf
 *.cmd text eol=crlf
 
-# Visual Studio solutions like to switch to CRLF at time
+# Visual Studio solutions like to switch to CRLF at times
 *.sln text eol=crlf
 
 *.ai binary
